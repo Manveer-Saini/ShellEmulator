@@ -1,0 +1,6 @@
+ls 
+ls -a
+ls -al
+echo "hello world"
+echo "bye world"
+exit

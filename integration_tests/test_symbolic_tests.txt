@@ -1,0 +1,6 @@
+[/bin/bash] || echo "Welcome"
+[someDirectory] && apropos file
+[someDirectory/coolFile || whatis file
+[-d /bin] && whoami
+[-f someDirectory/coolFile] && echo "good bye world"
+exit

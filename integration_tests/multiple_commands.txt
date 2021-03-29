@@ -1,0 +1,5 @@
+echo ""hello & farewell" && find
+ls -al && echo "wow that sucks"
+echo "no way" || echo "ok bye now dude"
+ls; diff -s single_commands.txt multiple_commands.txt
+exit

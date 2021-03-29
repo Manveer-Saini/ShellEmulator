@@ -1,0 +1,5 @@
+echo "hello comrade" #&& ls -a
+ls -lr #; echo "NOOOOOOO"
+#echo "let's go to a rave?"
+echo "time to go to motherland" && find #;ls -r
+exit

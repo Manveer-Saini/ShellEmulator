@@ -1,0 +1,5 @@
+(echo "hello && welcome" || ls) && (echo "ls")
+(echo "ok welcome to the jungle" && (ls -lrt && file someDirectory); test someDirectory)
+whatis test || (echo "we are near the end now") 
+(test -f someDirectory && echo "bye") && echo "damn"
+exit

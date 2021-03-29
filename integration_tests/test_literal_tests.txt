@@ -1,0 +1,7 @@
+test -e someDirectory/coolFile
+test someDirectory && echo "hello"
+test -f someDirectory || echo "wow false?"
+test -f someDirectory/coolFile || echo "that is good"
+test -d someDirectory && ls -al
+test -d someDirectory/coolFile
+exit
