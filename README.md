@@ -21,7 +21,7 @@ The following design patterns are used:
   
 # Diagram
 
-![Image of UML Class diagram](https://github.com/cs100/spring-2019-assignment-the-null-terminators/blob/master/images/Assignment%203.png)
+![Image of UML Class diagram](https://github.com/cs100/home/manveersaini/Projects/ShellEmulator/images/Assignment%203.png)
 
 # Classes
 The client has a pointer to an object of type RShell. RShell has as a member a pointer to an command object, called line, of type ProtoIn. When the RShell object
